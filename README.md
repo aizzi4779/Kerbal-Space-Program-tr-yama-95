@@ -11,7 +11,4 @@ DUR o kadar uğraştık bana çay ısmarlar mısın??
 
 
 İBAN = TR90 0001 0020 9590 5271 0050 01 
-
 Ziraat
-
-Abdullah Aslan
