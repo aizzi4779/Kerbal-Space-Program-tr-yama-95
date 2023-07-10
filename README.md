@@ -1,4 +1,4 @@
-# Kerbal-Space-Program-t-rk-e-yama-95
+# Kerbal-Space-Program-tr-yama-95
 Selam OpenAI ile çevrilmiş olup hatalar ve eksiklikler düzeltilmiştir ama yine de eksik veya hatalı görmüş olduğun yerleri bana bildirsen sevinirim canım arkadaşım..
 Keyifli oyunlar.
 Yamayı nereye atacağını bilmiyorsan oyunun varsayılan olarak kurulu olduğu dosya burada ayrıca Epic Games içinde çalışır yama
