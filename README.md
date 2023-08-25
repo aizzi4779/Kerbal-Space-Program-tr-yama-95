@@ -2,6 +2,8 @@
 Selam OpenAI ile çevrilmiş olup hatalar ve eksiklikler düzeltilmiştir ama yine de eksik veya hatalı görmüş olduğun yerleri bana bildirsen sevinirim canım arkadaşım..
 Keyifli oyunlar.
 
+Bu adresten bana mail atarak eksik ve hatalı yerleri bildirin : eleventop657@gmail.com
+
 
 Yamayı nereye atacağını bilmiyorsan oyunun varsayılan olarak kurulu olduğu dosyayı aşağıda belirttim ayrıca Epic Games içinde çalışır yama
 
