@@ -1,0 +1,17 @@
+DB
+{
+	Item
+	{
+		StartSpeed = 78.030000000000001
+		APTimeStart = 0
+		APTimeFinish = 0
+		TurnAngle = 13.66
+		Sensitivity = 0
+		Roll = 0
+		DestinationHeight = 80
+		PressureCutoff = 0
+		TotalLoss = 1322.8719639030846
+		MaxHeat = 0.29412351435903111
+		LaunchSuccess = True
+	}
+}
