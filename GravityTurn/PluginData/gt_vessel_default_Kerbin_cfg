@@ -1,0 +1,87 @@
+EnableStageManager = True
+EnableSpeedup = False
+EnableStats = False
+StartSpeed
+{
+	value = 78.030000000000001
+	locked = False
+	initialized = True
+}
+HoldAPTime
+{
+	value = 50
+	locked = False
+	initialized = True
+}
+APTimeStart
+{
+	value = 50
+	locked = True
+	initialized = True
+}
+APTimeFinish
+{
+	value = 50
+	locked = True
+	initialized = True
+}
+TurnAngle
+{
+	value = 13.66
+	locked = False
+	initialized = True
+}
+Sensitivity
+{
+	value = 0.29999999999999999
+	locked = True
+	initialized = True
+}
+Roll
+{
+	value = 0
+	locked = True
+	initialized = True
+}
+DestinationHeight
+{
+	value = 80
+	locked = False
+	initialized = True
+}
+PressureCutoff
+{
+	value = 1200
+	locked = False
+	initialized = True
+}
+Inclination
+{
+	value = 0
+	locked = True
+	initialized = True
+}
+FairingPressure
+{
+	value = 1000
+	locked = False
+	initialized = True
+}
+autostagePostDelay
+{
+	value = 0.29999999999999999
+	locked = False
+	initialized = True
+}
+autostagePreDelay
+{
+	value = 0.69999999999999996
+	locked = False
+	initialized = True
+}
+autostageLimit
+{
+	value = 0
+	locked = False
+	initialized = True
+}
